@@ -1,0 +1,148 @@
+ [
+        {
+          "@context": "http://schema.org",
+          "@type": "Website",
+          "name": "Pddar",
+          "url": "https://pddar.net/en/",
+          "inLanguage": "en",
+          "image": {
+            "@type": "ImageObject",
+            "contentUrl": "https://pddar.net/en/assets/images/logos/plantix-logo.png",
+            "name": "Pddar Logo"
+          },
+          "sameAs": [
+            "https://en.wikipedia.org/wiki/Pddar_(mobile_app)",
+            "https://www.facebook.com/Pddar",
+            "https://twitter.com/pddarApp"
+          ],
+          "publisher": {
+            "@type": "Corporation",
+            "name": "PEAT GmbH",
+            "url": "https://peat.technology",
+            "logo": {
+              "@type": "ImageObject",
+              "contentUrl": "https://plantix.net/en/assets/images/logos/peat-logo.jpg",
+              "name": "PEAT GmbH Logo"
+            },
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Kastanienallee 4",
+              "addressLocality": "Berlin",
+              "addressRegion": "Berlin",
+              "postalCode": "13347",
+              "addressCountry": "Germany"
+            },
+            "founder": [
+              {
+                "@type": "Person",
+                "name": "Simone Strey",
+                "image": "https://plantix.net/en/assets/images/team/employees/simone_strey_bw.jpg"
+              }
+            ]
+          },
+          "workTranslation": [
+            {
+              "@type": "WebSite",
+              "inLanguage": "es",
+              "url": "https://plantix.net/es/"
+            },
+            {
+              "@type": "WebSite",
+              "inLanguage": "pt",
+              "url": "https://plantix.net/pt/"
+            },
+            {
+              "@type": "WebSite",
+              "inLanguage": "fr",
+              "url": "https://plantix.net/fr/"
+            },
+            {
+              "@type": "WebSite",
+              "inLanguage": "te",
+              "url": "https://plantix.net/te/"
+            },
+            {
+              "@type": "WebSite",
+              "inLanguage": "hi",
+              "url": "https://plantix.net/hi/"
+            },
+            {
+              "@type": "WebSite",
+              "inLanguage": "mr",
+              "url": "https://plantix.net/mr/"
+            },
+            {
+              "@type": "WebSite",
+              "inLanguage": "ta",
+              "url": "https://plantix.net/ta/"
+            },
+            {
+              "@type": "WebSite",
+              "inLanguage": "ar",
+              "url": "https://plantix.net/ar/"
+            },
+            {
+              "@type": "WebSite",
+              "inLanguage": "kn",
+              "url": "https://plantix.net/kn/"
+            },
+            {
+              "@type": "WebSite",
+              "inLanguage": "ur",
+              "url": "https://plantix.net/ur/"
+            },
+            {
+              "@type": "WebSite",
+              "inLanguage": "pa",
+              "url": "https://plantix.net/pa/"
+            },
+            {
+              "@type": "WebSite",
+              "inLanguage": "ml",
+              "url": "https://plantix.net/ml/"
+            },
+            {
+              "@type": "WebSite",
+              "inLanguage": "bn",
+              "url": "https://plantix.net/bn/"
+            },
+            {
+              "@type": "WebSite",
+              "inLanguage": "gu",
+              "url": "https://plantix.net/gu/"
+            },
+            {
+              "@type": "WebSite",
+              "inLanguage": "or",
+              "url": "https://plantix.net/or/"
+            },
+            {
+              "@type": "WebSite",
+              "inLanguage": "id",
+              "url": "https://plantix.net/id/"
+            },
+            {
+              "@type": "WebSite",
+              "inLanguage": "vi",
+              "url": "https://plantix.net/vi/"
+            },
+            {
+              "@type": "WebSite",
+              "inLanguage": "de",
+              "url": "https://plantix.net/de/"
+            },
+            {
+              "@type": "WebSite",
+              "inLanguage": "ru",
+              "url": "https://plantix.net/ru/"
+            }
+          ],
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": "https://plantix.net/en/?search={search_term}",
+              "query-input": "required name=search_term"
+            }
+          ]
+        }
+      ]
